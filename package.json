@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "project for group 13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samir Saad",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "connect-flash": "*",
+    "ejs": "*",
+    "express": "^4.17.1",
+    "express-message": "*",
+    "express-messages": "*",
+    "express-session": "^1.17.1",
+    "express-validator": "*",
+    "mongoose": "*",
+    "nodemailer": "^6.4.10"
+  },
+  "devDependencies": {}
+}
