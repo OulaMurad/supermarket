@@ -163,14 +163,14 @@ section{
 	margin-bottom:500px;
 }
 .re figcaption { 
-	margin-top: 25px;
+	margin-top: 1e;
 	margin-bottom:25px;
 	font-size: 80%;
     padding-left:400px;
 	color:rgb(245, 14, 14) ;
 	font-style:italic;
 	font-weight:bold;
-	height:160px;
+	height:5px;
 	width:160px;
     margin-left: 10px;
 }
@@ -180,7 +180,7 @@ section{
 	box-shadow: 0px 0px 3px 3px;
 	width:160px;
 	height:160px;
-	margin-top: 20px;
+	margin-top: 10px;
 	margin-bottom:10px;
 	margin-left:120px;
 	border:2px solid black;
@@ -199,7 +199,7 @@ section{
 	
 	padding-left:160px;
 	padding-right:30px;
-	color:white;
+	
 	
 }
 .nextpage a {
@@ -209,6 +209,7 @@ section{
 	color:#C2FF33  ;
 	
 }
+
 .aside1{
 	width:100px;
 	float:left;
@@ -315,7 +316,7 @@ section{
 	height:160px;
 	margin-top: 20px;
 	margin-bottom:10px;
-	margin-left:10px;
+	
 	border:2px solid black;
 	background-color: chartreuse;
 }
@@ -356,6 +357,102 @@ section{
 .aside5 p{
 	font-weight: bold;
 }
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	
+	margin: auto;
+	text-align: center;
+	font-family: arial;
+  }
+  
+  .price {
+	color: black;
+	font-weight: bold;
+	font-size: 22px;
+	margin-left:200px;
+  }
+  
+  .card button {
+	border: none;
+	outline: 0;
+	padding: 12px;
+	color: white;
+	background-color: #000;
+	text-align: center;
+	cursor: pointer;
+	width: 30%;
+	margin-left:200px;
+	font-size: 18px;
+	font-weight: bold;
+  }
+  
+  .card button:hover {
+	opacity: 0.7;
+  }
+  
+.card1 {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	
+	margin: auto;
+	text-align: center;
+	font-family: arial;
+  }
+  
+  .price1 {
+	color: black;
+	font-size: 22px;
+	margin-right: 200px;
+	font-weight: bold;
+	margin-left: 50px;
+  }
+  .card1 button {
+	border: none;
+	outline: 0;
+	padding: 12px;
+	color: white;
+	background-color: #000;
+	text-align: center;
+	cursor: pointer;
+	width: 100px;
+	margin-left: 40px;
+	font-weight: bold;
+	font-size: 18px;
+  }
+  
+  .card1 button:hover {
+	opacity: 0.7;
+  }
+  .card2 {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	
+	margin: auto;
+	text-align: center;
+	font-family: arial;
+  }
+  
+  .price2 {
+	color: black;
+	font-size: 22px;
+	width:100px;
+	font-weight: bold;
+  }
+  .card2 button {
+	border: none;
+	outline: 0;
+	padding: 12px;
+	color: white;
+	background-color: #000;
+	text-align: center;
+	cursor: pointer;
+	width: 100px;
+	margin-right: 200px;
+	font-weight: bold;
+	font-size: 18px;
+  }
+  
+  .card2 button:hover {
+	opacity: 0.7;
+  }
 
 
 .badge {
